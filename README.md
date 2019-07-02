@@ -1,3 +1,3 @@
 # ClassfierCar
 a small artificial intelligence for classifying car
-https://www.youtube.com/watch?v=KzcszVps9bw
+[![Watch the video](https://www.youtube.com/watch?v=6ZPq_QzpKJ4&feature=youtu.be)
